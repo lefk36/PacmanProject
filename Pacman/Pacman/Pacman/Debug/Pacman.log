@@ -1,0 +1,42 @@
+﻿  Pacman.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): warning C4251: 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>::_Mypair': class 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>' needs to have dll-interface to be used by clients of class 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.20.27508\include\vector(1638): note: see declaration of 'std::_Compressed_pair<std::allocator<_Ty>,std::_Vector_val<std::_Simple_types<_Ty>>,true>'
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+  C:\Users\k027574j\Downloads\Pacman\Pacman\Pacman\Pacman\S2D\Input.h(108): note: see reference to class template instantiation 'std::vector<S2D::Input::Keys,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=S2D::Input::Keys
+          ]
+C:\Users\k027574j\Downloads\Pacman\Pacman\Pacman\Pacman\Pacman.cpp(62): warning C4156: deletion of an array expression without using the array form of 'delete'; array form substituted
+C:\Users\k027574j\Downloads\Pacman\Pacman\Pacman\Pacman\Pacman.cpp(62): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\k027574j\Downloads\Pacman\Pacman\Pacman\Pacman\Pacman.cpp(88): warning C4156: deletion of an array expression without using the array form of 'delete'; array form substituted
+C:\Users\k027574j\Downloads\Pacman\Pacman\Pacman\Pacman\Pacman.cpp(88): warning C4154: deletion of an array expression; conversion to pointer supplied
+C:\Users\k027574j\Downloads\Pacman\Pacman\Pacman\Pacman\Pacman.cpp(108): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\k027574j\Downloads\Pacman\Pacman\Pacman\Pacman\Pacman.cpp(116): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\k027574j\Downloads\Pacman\Pacman\Pacman\Pacman\Pacman.cpp(167): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\k027574j\Downloads\Pacman\Pacman\Pacman\Pacman\Pacman.cpp(262): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\k027574j\Downloads\Pacman\Pacman\Pacman\Pacman\Pacman.cpp(263): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\k027574j\Downloads\Pacman\Pacman\Pacman\Pacman\Pacman.cpp(272): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\k027574j\Downloads\Pacman\Pacman\Pacman\Pacman\Pacman.cpp(276): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\k027574j\Downloads\Pacman\Pacman\Pacman\Pacman\Pacman.cpp(280): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\k027574j\Downloads\Pacman\Pacman\Pacman\Pacman\Pacman.cpp(284): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\k027574j\Downloads\Pacman\Pacman\Pacman\Pacman\Pacman.cpp(314): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\k027574j\Downloads\Pacman\Pacman\Pacman\Pacman\Pacman.cpp(315): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\k027574j\Downloads\Pacman\Pacman\Pacman\Pacman\Pacman.cpp(331): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\k027574j\Downloads\Pacman\Pacman\Pacman\Pacman\Pacman.cpp(348): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\k027574j\Downloads\Pacman\Pacman\Pacman\Pacman\Pacman.cpp(409): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\k027574j\Downloads\Pacman\Pacman\Pacman\Pacman\Pacman.cpp(411): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\k027574j\Downloads\Pacman\Pacman\Pacman\Pacman\Pacman.cpp(413): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\k027574j\Downloads\Pacman\Pacman\Pacman\Pacman\Pacman.cpp(415): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\k027574j\Downloads\Pacman\Pacman\Pacman\Pacman\Pacman.cpp(421): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\k027574j\Downloads\Pacman\Pacman\Pacman\Pacman\Pacman.cpp(422): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\k027574j\Downloads\Pacman\Pacman\Pacman\Pacman\Pacman.cpp(423): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\k027574j\Downloads\Pacman\Pacman\Pacman\Pacman\Pacman.cpp(424): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Pacman.vcxproj -> C:\Users\k027574j\Downloads\Pacman\Pacman\Pacman\Debug\Pacman.exe

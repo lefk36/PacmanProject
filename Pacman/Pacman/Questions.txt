@@ -1,0 +1,1 @@
+How to properly randomize the animation and the positions.
